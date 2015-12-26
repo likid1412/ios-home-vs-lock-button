@@ -8,3 +8,5 @@ It utilizes CSNotificationCenter to detect Darwin notifications.
 
 
 *credit goes out to [wqq on stackoverflow](http://stackoverflow.com/users/889286/wqq)*
+
+You can find it in [Stackoverflow](http://stackoverflow.com/a/9058038/1764735)
